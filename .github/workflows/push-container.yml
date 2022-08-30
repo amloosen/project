@@ -1,4 +1,4 @@
-name: Create and publish the required Docker image
+usethis::browse_github_actions()name: Create and publish the required Docker image
 
 on:
   push:
